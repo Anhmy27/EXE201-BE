@@ -1,0 +1,2 @@
+from .consumer import RabbitMQConsumerSendMailConsumer
+from .producer import RabbitMQProducerSendMail
